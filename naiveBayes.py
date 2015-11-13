@@ -1,6 +1,6 @@
 # Naive Bayes classifier
-# Written by: Jasper Ginn
-# Based on:
+# Code adapted from: https://www.youtube.com/watch?v=j3IGd5CjsVA
+# Adapted by: Jasper Ginn
 
 import sys
 from collections import Counter, defaultdict
