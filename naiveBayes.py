@@ -1,5 +1,6 @@
 # Naive Bayes classifier
 # Code adapted from: https://www.youtube.com/watch?v=j3IGd5CjsVA
+# Copyright @ BloomReach (https://www.youtube.com/channel/UCm78RbFqD3gvpLU4bBaXmZ)
 # Adapted by: Jasper Ginn
 
 import sys
